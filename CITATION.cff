@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+title: "Gravitational-Lens Amplification Factor Emulator"
+authors:
+  - family-names: Zhang
+    given-names: Fan
+  - family-names: Zhang
+    given-names: Qikai
+version: 0.1.0
+date-released: 2026-04-24

@@ -1,0 +1,15 @@
+name: gwlens-emulator
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - mpmath
+  - matplotlib
+  - tqdm
+  - pip
+  - pip:
+      - torch

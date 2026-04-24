@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+env/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Generated data and model artifacts
+data/raw/
+data/processed/
+runs/
+checkpoints/
+*.pt
+*.pth
+*.npy
+*.npz
+*.png
+*.log

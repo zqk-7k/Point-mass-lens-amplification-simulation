@@ -1,0 +1,14 @@
+{
+  "lens": "pm",
+  "interval": "I1",
+  "n_y": 400,
+  "n_omega": 5000,
+  "fourier_feats": 64,
+  "hidden_dim": 512,
+  "depth": 8,
+  "w0": 80.0,
+  "scale": [30.0, 0.5],
+  "lr": 1e-5,
+  "batch_size": 8192,
+  "epochs": 15000
+}
